@@ -23,9 +23,8 @@ Contents in Repository
 
 6.Watson Discovery Document
 
-
-Youtube link:https://www.youtube.com/watch?v=oSDrp0KoFE0&t=29s
-
 7.Project Explanation Video PPT
 
 8.Project Report
+
+Youtube link:https://www.youtube.com/watch?v=oSDrp0KoFE0&t=29s
